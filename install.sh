@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # NeuralNote installer.
 #
-#   curl -fsSL https://neuralnote.pages.dev/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/aniiirudhh/neuralnote-releases/main/install.sh | bash
 #
 # What it does, and nothing else:
 #   1. Checks you are on an Apple Silicon Mac running macOS 13.5+.
